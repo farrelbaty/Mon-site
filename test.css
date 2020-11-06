@@ -1,0 +1,11 @@
+p{
+	display:inline-block;
+	border: 2px solid blue;
+
+}
+.para1{
+	width: 800px;
+}
+.para2{
+	width: auto;
+}
